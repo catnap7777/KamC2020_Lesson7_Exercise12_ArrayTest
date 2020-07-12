@@ -1,8 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="KamC2020_Lesson7_Exercise12_ArrayTest" targetName="KamC2020_Lesson7_Exercise12_ArrayTest" />
+    </generated>
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f101d5d-e67d-45ea-b330-7b0b15724f56" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eYmZQVRGDwN5potvbh0cOHJbkJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="KamC2020_Lesson7_Exercise12_ArrayTest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="KamC2020_Lesson7_Exercise12_ArrayTest" TARGET_NAME="KamC2020_Lesson7_Exercise12_ArrayTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="KamC2020_Lesson7_Exercise12_ArrayTest" RUN_TARGET_NAME="KamC2020_Lesson7_Exercise12_ArrayTest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f101d5d-e67d-45ea-b330-7b0b15724f56" name="Default Changelist" comment="" />
+      <created>1594506955585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594506955585</updated>
+      <workItem from="1594506956887" duration="1120000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="484" y="354" key="Github.ShareDialog" timestamp="1594507029918">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="484" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1594507029918" />
+    <state x="428" y="155" key="Github.UntrackedFilesDialog" timestamp="1594507037325">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="428" y="155" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1594507037325" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1594520464993">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594520464993" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1594520464991">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594520464991" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1594520464991">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594520464991" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1594520464992">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594520464992" />
   </component>
 </project>

@@ -63,7 +63,7 @@ int main(void)
             minimum = array1[count];
     }
 
-    printf("\n\n\t\aThe maximum value is %d", maximum);
+    printf("\n\n\tThe maximum value is %d", maximum);
     printf("\n\tThe minimum value is %d\n\n", minimum);
 
     return 0;
