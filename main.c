@@ -2,6 +2,7 @@
 
 #define MAX 100
 
+
 int array1[MAX];
 //int count = -1, maximum, minimum, num_entered, temp;
 int count = -1, maximum, minimum, num_entered, temp;
